@@ -1,3 +1,8 @@
+copy from https://github.com/tortlab/phase-amplitude-coupling
+need to replace eeg filter to eemd and then generate comondulogram.
+
+Special thanks to Tort, the owner of the scripts.
+
 # phase-amplitude-coupling
 Matlab routines for assessing phase-amplitude coupling by means of the modulation index (MI) and comodulogram, as described in Tort et al., J Neurophysiol 2010.
 
